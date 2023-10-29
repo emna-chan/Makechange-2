@@ -1,0 +1,3 @@
+Minimum coins required is 3
+Time taken by function: 1 microseconds
+Number of recursive calls: 29
